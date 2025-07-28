@@ -57,8 +57,8 @@ pip install Pillow cryptography
 ## How to Run the Application
 Clone the Repository:
 First, clone this GitHub repository to your local machine using Git:
-git clone https://github.com/yourusername/Steganocipher-Python.git
-cd Steganocipher-Python
+git clone https://github.com/taimoorahsan77/Image-Steganography-Tool.git
+cd Image-Steganography Tool
 
 
 ## Install Dependencies:
